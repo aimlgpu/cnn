@@ -11,13 +11,9 @@ This repository contains my submission for the Kaggle Histopathologic Cancer Det
 - **Results**: Custom CNN AUC ~0.82, VGG16 AUC ~0.7 (random weights due to network issues).
 
 ## Repository Structure
-- `notebooks/`: Jupyter notebook(s) with the project code.
   - `w3-cnn.ipynb`: Main notebook with EDA, training, results, and submission.
-- `outputs/`: Output files.
   - `submission.csv`: Kaggle submission file.
-- `models/`: Saved models.
-  - `custom_cnn.h5`: Custom CNN model.
-  - `vgg16.h5`: VGG16 model.
+
 
 ## How to Run
 - Open `notebooks/w3-cnn.ipynb` in Kaggle or Jupyter Notebook.
